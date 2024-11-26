@@ -6,9 +6,9 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Project Date Tool"/>
   <Description DefaultValue="Project Tracker Date tool"/>
-  <IconUrl DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://spexz.github.io/project-date-add-in.github.io/help"/>
+  <IconUrl DefaultValue="https://spexz.github.io/project-date-addin/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://spexz.github.io/project-date-addin/assets/icon-128.png"/>
+  <SupportUrl DefaultValue="https://spexz.github.io/project-date-addin/help"/>
   <AppDomains>
     <AppDomain>https://spexz.github.io</AppDomain>
   </AppDomains>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://spexz.github.io/project-date-add-in.github.io/taskpane.html"/>
+        <SourceLocation DefaultValue="https://spexz.github.io/project-date-addin/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -73,12 +73,12 @@
       </Hosts>
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-16.png"/>
-          <bt:Image id="Icon.32x32" DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-32.png"/>
-          <bt:Image id="Icon.80x80" DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-80.png"/>
+          <bt:Image id="Icon.16x16" DefaultValue="https://spexz.github.io/project-date-addin/assets/icon-16.png"/>
+          <bt:Image id="Icon.32x32" DefaultValue="https://spexz.github.io/project-date-addin/assets/icon-32.png"/>
+          <bt:Image id="Icon.80x80" DefaultValue="https://spexz.github.io/project-date-addin/assets/icon-80.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://spexz.github.io/project-date-add-in.github.io/taskpane.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://spexz.github.io/project-date-addin/taskpane.html"/>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Project Date Tool"/>
