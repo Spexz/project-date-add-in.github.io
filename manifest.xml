@@ -2,15 +2,15 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>6bb490a5-ce36-4863-893d-f091bf5deff7</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Contoso</ProviderName>
+  <ProviderName>Spexz</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Project Date Tool"/>
-  <Description DefaultValue="A template to get started."/>
+  <Description DefaultValue="Project Tracker Date tool"/>
   <IconUrl DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://spexz.github.io/project-date-add-in.github.io/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://spexz.github.io/project-date-add-in.github.io/help"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://spexz.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
